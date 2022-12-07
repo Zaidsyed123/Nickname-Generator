@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+    text-align: center;
+  }
+  
+  h1,
+  p {
+    color: white;
+  }
+  
+  #container div{
+    height: 50px;
+    width: 100%;
+    font-size: 30px;
+    color: white;
+  }
